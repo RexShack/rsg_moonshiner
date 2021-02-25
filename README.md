@@ -21,6 +21,7 @@ Rexsahack Gaming : Just makes moonshine!
 2. Add "rsg_moonshiner" in your "server.cfg".
 3. In redemrp_inventory/config.lua under Config.Items ensure the items are added :
 
+```lua
 Config.Items = {
 
 ["sugar"] =
@@ -80,7 +81,9 @@ Config.Items = {
     }
 
 }
+```
 
 4. restart your server and enjoy
 
-have fun...
+# Preview
+[![Watch the video](https://img.youtube.com/vi/ZOtrG551qXY/maxresdefault.jpg)](https://youtu.be/ZOtrG551qXY)
